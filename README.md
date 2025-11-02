@@ -37,13 +37,13 @@ O desafio inicial foi o formato dos dados. O dataset original, um arquivo JSON d
 
 Com os dados estruturados, foi utilizada a biblioteca `Geopandas` para plotar cada ponto de entrega no mapa do Distrito Federal, segmentando-os por hub de origem (`df-0`, `df-1`, `df-2`).
 
-![Mapa de Entregas no DF](imagem_2025-11-02_114438773.png)
+<img width="1597" height="926" alt="image" src="https://github.com/user-attachments/assets/0a533148-fa0b-4813-925f-6726b175b03e" />
 
 ### 3. Análise de Desempenho
 
 A proporção de entregas por hub foi calculada para entender a participação de cada centro na operação total.
 
-![Proporção de Entregas](imagem_2025-11-02_114457411.png)
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/6d63e774-4c2b-4439-b4a5-38411e197ff1" />
 
 ---
 
